@@ -1,16 +1,70 @@
 ## Hi there 👋
+# Hi 👋, I'm Harshit Shakya
 
-<!--
-**Harshit70554651/Harshit70554651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer | JavaScript Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building responsive, user-friendly and full-stack web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Diploma in Computer Science & Engineering
+- 💻 MERN Stack Developer
+- 🌱 Currently improving my JavaScript, React.js and Node.js skills
+- 🚀 Building real-world web projects
+- 📍 India
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Featured Projects
+
+### 📰 News Portal
+A responsive news portal built using modern web technologies.
+
+### 🏠 PG Website
+A responsive PG accommodation website with a clean and user-friendly interface.
+
+### 🎬 Movie Search App
+A movie search application built using HTML, CSS and JavaScript.
+
+### 🌦️ Weather Application
+A weather application designed to provide weather information through API integration.
+
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+## 🎯 Career Goal
+
+To become a skilled Full Stack MERN Developer and build scalable, real-world web applications.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Harshit70554651
+
+---
+
+⭐ Thanks for visiting my profile!
