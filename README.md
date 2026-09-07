@@ -21,6 +21,7 @@ I'm a passionate developer focused on building responsive, user-friendly and ful
 - JavaScript
 - React.js
 - Bootstrap
+- Tailwind Css
 
 ### Backend
 - Node.js
